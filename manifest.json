@@ -1,0 +1,19 @@
+{
+  "name": "Ace Casino Airport",
+  "short_name": "Ace Casino Airport",
+  "theme_color": "",
+  "background_color": "#F6F8FB",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1763038137-favicon-acecasinosca.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
